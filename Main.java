@@ -7,5 +7,6 @@ public class Main {
         System.out.println("first from main");
         System.out.println("second from feature");
         System.out.println("third from feature");
+        System.out.println("commit from feature2");
     }
 }
