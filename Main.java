@@ -8,5 +8,7 @@ public class Main {
         System.out.println("second from feature");
         System.out.println("third from feature");
         System.out.println("commit from feature2");
+        System.out.println("first commit");
+
     }
 }
