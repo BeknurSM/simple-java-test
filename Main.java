@@ -10,5 +10,6 @@ public class Main {
         System.out.println("commit from feature2");
         System.out.println("first commit");
         System.out.println("second commit");
+        System.out.println("third commit");
     }
 }
